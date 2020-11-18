@@ -1,0 +1,29 @@
+Safeway
+4732 Brooklyn Ave NE, Seattle, WA 98105
+supermarket
+47.66426
+-122.31389
+
+Seattle Aquarium
+1483 Alaskan Way, Seattle, WA 98101
+aquarium
+47.60745
+-122.34300
+
+Sharetea
+1100 NE 45th St, Seattle, WA 98105
+milktea, cafe
+47.66150
+-122.31615
+
+University Book Store
+4326 University Way NE, Seattle, WA 98105
+bookstore, University of Washington
+47.66043
+-122.31281
+
+Fremont Troll
+Troll Ave N, Seattle, WA 98103
+tourists attraction
+47.65097
+-122.34726

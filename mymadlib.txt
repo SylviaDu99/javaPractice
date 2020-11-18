@@ -1,0 +1,9 @@
+One of the most <adjective> games is called PokemonGo.
+PokemonGo is a game for players to catch Pokemons
+while walking in the <place>. There are <number>
+different kinds of Pokemons in this game. The most
+<adjective> one is Pikachu. However, Pikachu is a rare
+Pokemon, so the most common way to catch a Pikachu
+is to hatch it from an egg. To hatch an egg, players
+have to <verb> for at least 2km, but the Pokemon hatched
+from the egg could be a sad story.

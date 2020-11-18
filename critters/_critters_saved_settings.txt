@@ -1,0 +1,21 @@
+#CSE 142 Critters saved settings
+#Tue Nov 17 23:17:38 PST 2020
+Butterfly=true
+LabTA=false
+Ant=true
+Bird=true
+Hippo=true
+Vulture=true
+Grasshopper=true
+Hyena=true
+Secure\ tournament\ mode=true
+Stone=true
+Debug\ output=false
+Sloth=true
+Bumblebee=true
+Crab=true
+Husky=false
+Height=50
+Number\ of\ each\ critter=1
+Network\ features=true
+Width=60
